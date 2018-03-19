@@ -1,0 +1,9 @@
+{
+	"ennemies":[
+		{"x":50,"y":100,"hp":1,"step":0,"vy":3,"vx":2,"pic":"redknight.png"},
+		{"x":200,"y":100,"hp":1,"step":0,"vy":3,"vx":2,"pic":"redknight.png"},
+		{"x":400,"y":100,"hp":1,"step":0,"vy":3,"vx":2,"pic":"miniskel.png"},
+		{"x":400,"y":0,"hp":99,"step":0,"vy":3,"vx":2,"pic":"exit.png","exit":1}
+	]
+
+}

@@ -1,0 +1,6 @@
+{
+	"ennemies":[
+		{"x":100,"y":100,"hp":1,"vx":1,"vy":1,"step":0,"pic":"funkyspider.png"}
+	]
+
+}
